@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Solar Power Plant - Rajasthan",
+            "type": "Renewable Energy",
+            "description": "50MW solar power plant reducing coal-based electricity generation",
+            "co2Reduction": 45000,
+            "creditsAvailable": 4500,
+            "status": "Active",
+            "location": "Rajasthan, India"
+        },
+        {
+            "id": 2,
+            "name": "Afforestation Project - Western Ghats",
+            "type": "Forestry",
+            "description": "Reforestation of degraded land with native species",
+            "co2Reduction": 25000,
+            "creditsAvailable": 2500,
+            "status": "Active",
+            "location": "Karnataka, India"
+        },
+        {
+            "id": 3,
+            "name": "Biomass Energy - Punjab",
+            "type": "Waste Management",
+            "description": "Conversion of agricultural waste to energy",
+            "co2Reduction": 15000,
+            "creditsAvailable": 1500,
+            "status": "Completed",
+            "location": "Punjab, India"
+        }
+    ]
+}
